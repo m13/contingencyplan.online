@@ -1,0 +1,10 @@
+# WebStorm
+.idea/
+
+# libraries
+node_modules/
+
+# private files
+credentials.json
+token.json
+.env

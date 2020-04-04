@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# My Contingency Plan B
 
-You can use the [editor on GitHub](https://github.com/m13/planb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Safety box](planb.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Description
 
-### Markdown
+**Get ready yourself for emergencies with your beloved family**. Use this tool to prepare yourself by considering an exhaustive list of threads and establish a fallback plan for each one. Then decide what information should be shared with who by when.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Humans are unable to think clearly under pressure. Quick decisions are not best decisions and, in the worst case, you might not be able to take any decision. Additionally, humans often don't feel comfortable sharing some sensitive topics openly, so conversations got delayed until it's too late.
 
-```markdown
-Syntax highlighted code block
+This tool is an interactive guide to make you think twice about difficult questions, giving you plenty of time to consider what to do and who should be reached. Keep the information for yourself in a secure way by using your own Google account.
 
-# Header 1
-## Header 2
-### Header 3
+Follow instructions below to setup external requirements and execute this tool.
 
-- Bulleted
-- List
+[QUOTE HERE]
 
-1. Numbered
-2. List
+## FAQs
 
-**Bold** and _Italic_ and `Code` text
+#### Why did you decided to start this project?
 
-[Link](url) and ![Image](src)
-```
+COVID-19 affected so many people's health and economy. Very few were well prepared. 
+Let's use this opportunity to make things better and increase global awareness. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+----
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m13/planb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
